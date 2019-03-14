@@ -1,5 +1,5 @@
-class Greeter {
-    public String sayHello() { 
-        return "Hello world!"; 
-    }
+public class Greeter{
+	public String sayHello(){
+		return "Hello world!";
+	}
 }
